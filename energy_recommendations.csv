@@ -1,0 +1,5 @@
+Recommendation
+Review records with energy consumption more than 20% above the dataset average.
+Review HVAC schedules and temperature settings. Average HVAC consumption is 16.08 kWh.
+Review lighting schedules and consider efficient lighting. Average lighting consumption is 11.15 kWh.
+Review energy use during vacant periods. Average consumption for records marked Vacant: 54.24 kWh.
